@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Lamborghini T-Shirt",
       "price": 49.99,
-      "image": "https://example.com/images/tshirt.jpg",
+      "image": "https://github.com/marcojr360/LamborghiniStore/blob/main/prodotti/tshirt.jpg",
       "sizes": ["S", "M", "L", "XL"],
       "description": "Una maglietta elegante con il logo Lamborghini, perfetta per ogni occasione."
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Lamborghini Cap",
       "price": 29.99,
-      "image": "https://example.com/images/cap.jpg",
+      "image": "https://github.com/marcojr360/LamborghiniStore/blob/main/prodotti/cap.jpg",
       "sizes": ["One Size"],
       "description": "Un cappello con il logo Lamborghini, ideale per proteggersi dal sole in stile."
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Lamborghini Hoodie",
       "price": 89.99,
-      "image": "https://example.com/images/hoodie.jpg",
+      "image": "https://github.com/marcojr360/LamborghiniStore/blob/main/prodotti/hoodie.jpg",
       "sizes": ["S", "M", "L", "XL"],
       "description": "Una felpa con cappuccio, comoda e alla moda, con il logo Lamborghini."
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Lamborghini Jacket",
       "price": 129.99,
-      "image": "https://example.com/images/jacket.jpg",
+      "image": "https://github.com/marcojr360/LamborghiniStore/blob/main/prodotti/jacket.jpg",
       "sizes": ["M", "L", "XL"],
       "description": "Una giacca sportiva con design moderno e il logo Lamborghini."
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Lamborghini Sneakers",
       "price": 149.99,
-      "image": "https://example.com/images/sneakers.jpg",
+      "image": "https://github.com/marcojr360/LamborghiniStore/blob/main/prodotti/sneakers.jpg",
       "sizes": ["40", "41", "42", "43", "44"],
       "description": "Scarpe da ginnastica eleganti e sportive, ispirate al design Lamborghini."
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Lamborghini Backpack",
       "price": 79.99,
-      "image": "https://example.com/images/backpack.jpg",
+      "image": "https://github.com/marcojr360/LamborghiniStore/blob/main/prodotti/backpack.jpg",
       "sizes": ["One Size"],
       "description": "Uno zaino resistente e capiente, con il logo Lamborghini, perfetto per viaggi e lavoro."
     }
